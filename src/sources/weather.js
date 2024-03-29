@@ -1,7 +1,9 @@
+import { AKI_KEY } from "../routes/api/get-weather";
+
 const FETCH_OPTION = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': 'a4afd78930mshb2f60f33475b77cp120f72jsnd9c23b006499',
+        'X-RapidAPI-Key': AKI_KEY,
         'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
     }
 };
