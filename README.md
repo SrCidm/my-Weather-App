@@ -1,4 +1,4 @@
-[screenApp](Screenshots/1.png)
+<img src="Screenshots/1.png" alt="screenApp">)
 # The provided code showcases a basic example of a web application using Svelte, a JavaScript framework for building interactive user interfaces. Here's a brief description of what each part of the code does:
 
 ## JavaScript (Svelte Component):
